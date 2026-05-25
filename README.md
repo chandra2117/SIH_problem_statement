@@ -87,15 +87,15 @@ Passengers receive live updates about:
 
 
 
-# Proposed Solution / Architecture Diagram
+# Architecture Diagram:
 
 <img width="1536" height="1024" alt="Architecture diagram" src="https://github.com/user-attachments/assets/292d38d2-d14e-4953-b617-4005e86c5c05" />
 
-
-# Use Cases
+<br><br><br><br>
+# Use Cases:
 
 <img width="1693" height="929" alt="usecase diagram" src="https://github.com/user-attachments/assets/2cfe9649-67e0-48d0-87c8-40f434634905" />
-
+<br><br><br><br>
 # Technology Stack
 
 | Technology              | Purpose                    |
